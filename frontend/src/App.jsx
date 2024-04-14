@@ -5,7 +5,7 @@ const App = () => {
     <div>
       <h1>
         Hello world it is the chat application for the good conversion of the
-        good and bad{" "}
+        add the new line good and bad{" "}
       </h1>
     </div>
   );
